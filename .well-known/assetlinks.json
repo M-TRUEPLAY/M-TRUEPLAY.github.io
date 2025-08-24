@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trueplay.sports.dev",
+      "sha256_cert_fingerprints": [
+        "7D:29:4D:EE:93:D1:86:BC:6F:99:CB:53:54:25:72:57:BF:1A:C3:D2:54:6E:0E:3A:5F:36:25:3C:AF:7E:D6:30"
+      ]
+    }
+  }
+]
